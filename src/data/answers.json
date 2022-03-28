@@ -1,0 +1,26 @@
+[
+  {
+    "answerId": "789",
+    "questionId": "456",
+    "title": "Mumbai",
+    "isTrue": false
+  },
+  {
+    "answerId": "asdf",
+    "questionId": "456",
+    "title": "Chennai",
+    "isTrue": false
+  },
+  {
+    "answerId": "qerty",
+    "questionId": "456",
+    "title": "Pune",
+    "isTrue": false
+  },
+  {
+    "answerId": "122434",
+    "questionId": "456",
+    "title": "Delhi",
+    "isTrue": true
+  }
+]

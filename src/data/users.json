@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "type": "admin",
+    "name": "Harsh",
+    "email": "harsh@gmail.com",
+    "password": "123456789",
+    "birthDate": "1/6/1998",
+    "profileImage": "https://avatars.dicebear.com/api/male/john.svg?background=%230000ff"
+  },
+  {
+    "id": "1",
+    "type": "user",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "password": "123456789",
+    "birthDate": "1/6/1998",
+    "profileImage": "https://avatars.dicebear.com/api/male/john.svg?mood[]=happy&mood[]=sad"
+  }
+]
